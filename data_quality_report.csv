@@ -1,0 +1,74 @@
+row,customer_id,dimension,field,problem
+22.0,1021,Completeness,email,Email fehlt
+23.0,1022,Completeness,email,Email fehlt
+24.0,1023,Completeness,email,Email fehlt
+25.0,1024,Completeness,email,Email fehlt
+26.0,1025,Completeness,email,Email fehlt
+27.0,1026,Completeness,email,Email fehlt
+28.0,1027,Completeness,email,Email fehlt
+29.0,1028,Completeness,email,Email fehlt
+30.0,1029,Completeness,email,Email fehlt
+31.0,1030,Completeness,email,Email fehlt
+32.0,1031,Completeness,email,Email fehlt
+33.0,1032,Completeness,email,Email fehlt
+34.0,1033,Completeness,email,Email fehlt
+35.0,1034,Completeness,email,Email fehlt
+36.0,1035,Completeness,email,Email fehlt
+37.0,1036,Completeness,email,Email fehlt
+38.0,1037,Completeness,email,Email fehlt
+39.0,1038,Completeness,email,Email fehlt
+40.0,1039,Completeness,email,Email fehlt
+41.0,1040,Completeness,email,Email fehlt
+42.0,1041,Validity,email,Ungültiges E-Mail-Format
+43.0,1042,Validity,email,Ungültiges E-Mail-Format
+44.0,1043,Validity,email,Ungültiges E-Mail-Format
+45.0,1044,Validity,email,Ungültiges E-Mail-Format
+46.0,1045,Validity,email,Ungültiges E-Mail-Format
+47.0,1046,Validity,email,Ungültiges E-Mail-Format
+48.0,1047,Validity,email,Ungültiges E-Mail-Format
+49.0,1048,Validity,email,Ungültiges E-Mail-Format
+50.0,1049,Validity,email,Ungültiges E-Mail-Format
+51.0,1050,Validity,email,Ungültiges E-Mail-Format
+52.0,1051,Validity,email,Ungültiges E-Mail-Format
+53.0,1052,Validity,email,Ungültiges E-Mail-Format
+54.0,1053,Validity,email,Ungültiges E-Mail-Format
+55.0,1054,Validity,email,Ungültiges E-Mail-Format
+56.0,1055,Validity,email,Ungültiges E-Mail-Format
+62.0,1061,Validity,age,Unplausibles Alter: 16
+63.0,1062,Validity,age,Unplausibles Alter: 17
+64.0,1063,Validity,age,Unplausibles Alter: 15
+65.0,1064,Validity,age,Unplausibles Alter: 121
+66.0,1065,Validity,age,Unplausibles Alter: 130
+67.0,1066,Validity,age,Unplausibles Alter: 150
+68.0,1067,Validity,age,Unplausibles Alter: 14
+69.0,1068,Validity,age,Unplausibles Alter: 125
+70.0,1069,Validity,age,Unplausibles Alter: 12
+71.0,1070,Validity,age,Unplausibles Alter: 140
+72.0,1071,Validity,balance,Negativer Kontostand: -1946.09
+73.0,1072,Validity,balance,Negativer Kontostand: -602.25
+74.0,1073,Validity,balance,Negativer Kontostand: -585.12
+75.0,1074,Validity,balance,Negativer Kontostand: -422.48
+76.0,1075,Validity,balance,Negativer Kontostand: -1412.93
+77.0,1076,Validity,balance,Negativer Kontostand: -640.91
+78.0,1077,Validity,balance,Negativer Kontostand: -704.12
+79.0,1078,Validity,balance,Negativer Kontostand: -1868.06
+80.0,1079,Validity,balance,Negativer Kontostand: -1592.86
+81.0,1080,Validity,balance,Negativer Kontostand: -554.18
+82.0,1081,Validity,balance,Negativer Kontostand: -252.53
+83.0,1082,Validity,balance,Negativer Kontostand: -1356.48
+,1001,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1002,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1003,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1004,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1005,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1006,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1007,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1008,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1001,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1002,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1003,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1004,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1005,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1006,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1007,Uniqueness,customer_id,Customer ID ist nicht eindeutig
+,1008,Uniqueness,customer_id,Customer ID ist nicht eindeutig
